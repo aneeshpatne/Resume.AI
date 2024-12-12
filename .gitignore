@@ -1,6 +1,2 @@
-/model.safetensors
-/USE_POLICY.md
-/special_tokens_map.json
-/tokenizer_config.json
-/tokenizer.json
 /llama
+/resume-chatbot
