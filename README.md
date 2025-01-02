@@ -2,7 +2,7 @@
 
 A project to fine-tune the LLAMA 3.2 1B model to create an interactive resume chatbot capable of engaging in professional conversations.
 
-##Overview
+## Overview
 
 This project leverages the LLAMA 3.2 1B model to develop a personal resume chatbot. The chatbot is trained to answer questions about an individual’s professional experience, skills, and qualifications, serving as a modern, interactive way to present a resume. It provides users with a dynamic method to communicate their professional profile.
 
