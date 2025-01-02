@@ -12,8 +12,8 @@ def transform_line(line):
     }
 
 if __name__ == "__main__":
-    input_file = "resume_chatbot_training_data_full.jsonl"
-    output_file = "dataset.jsonl"
+    input_file = "dataset.jsonl"
+    output_file = "dataset_processed.jsonl"
     
     with open(input_file, "r") as fin, open(output_file, "w") as fout:
         for line in fin:
