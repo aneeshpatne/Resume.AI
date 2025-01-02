@@ -2,3 +2,5 @@
 /resume-chatbot
 /Llama-3.2-1B-Instruct
 .venv
+LoRA/lora-llama-3.2-1b-adapter
+LoRA/lora-llama-3.2-1b-output
