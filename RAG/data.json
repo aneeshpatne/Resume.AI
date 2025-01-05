@@ -1,0 +1,116 @@
+{
+    "summary": "A dedicated Electronics and Telecommunication professional with a strong background in machine learning, web development, and cloud platforms. Proven ability to lead projects, solve complex problems, and continuously learn new technologies to drive innovation and efficiency.",
+    
+    "contact": {
+      "email": "aneeshpatne12@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/aneeshpatne",
+      "github": "https://github.com/aneeshpatne",
+      "leetcode": "https://leetcode.com/aneeshpatne"
+    },
+    
+    "education": [
+      {
+        "degree": "M.Tech in Electronics and Telecommunication",
+        "institution": "Veermata Jijabai Technological Institute",
+        "location": "Mumbai, Maharashtra",
+        "duration": "2023 - 2025",
+        "details": "Specialized in Machine Learning and Signal Processing. Relevant coursework includes Advanced Algorithms, Neural Networks, and Communication Systems."
+      },
+      {
+        "degree": "B.Tech in Electronics and Telecommunication",
+        "institution": "Thakur College of Engineering and Technology",
+        "location": "Mumbai, Maharashtra",
+        "duration": "2019 - 2023",
+        "details": "Graduated with First Class Honors. Engaged in multiple projects focusing on embedded systems and wireless communication."
+      }
+    ],
+    
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "Tech Innovators Pvt. Ltd.",
+        "location": "Mumbai, Maharashtra",
+        "duration": "June 2022 - August 2022",
+        "responsibilities": [
+          "Developed scalable web applications using React and Node.js.",
+          "Collaborated with cross-functional teams to define project requirements and deliverables.",
+          "Implemented RESTful APIs to enhance application functionality and performance."
+        ],
+        "technologies_used": ["React", "Node.js", "Express", "MongoDB"]
+      },
+      {
+        "title": "Research Assistant",
+        "company": "AI Research Lab, VJTI",
+        "location": "Mumbai, Maharashtra",
+        "duration": "September 2023 - Present",
+        "responsibilities": [
+          "Conducted research on machine learning algorithms for signal processing.",
+          "Developed and fine-tuned models to improve data accuracy and processing speed.",
+          "Published findings in reputable journals and presented at conferences."
+        ],
+        "technologies_used": ["Python", "TensorFlow", "MATLAB", "LaTeX"]
+      }
+    ],
+    
+    "skills": {
+      "technical_skills": [
+        "Python",
+        "Machine Learning",
+        "React",
+        "Node.js",
+        "TensorFlow",
+        "MATLAB",
+        "Express",
+        "MongoDB",
+        "Google Vertex AI",
+        "SvelteKit"
+      ],
+      "soft_skills": [
+        "Problem-Solving",
+        "Team Leadership",
+        "Effective Communication",
+        "Adaptability",
+        "Time Management"
+      ]
+    },
+    
+    "projects": [
+      {
+        "title": "Socio-Economic Impact of Pollution on Life Expectancy",
+        "description": "A machine learning project analyzing the impact of air pollution on life expectancy, integrating multiple socio-economic parameters.",
+        "technologies_used": ["Machine Learning", "Google Vertex AI", "SvelteKit", "Express"],
+        "duration": "January 2024 - Present",
+        "tags": ["Machine Learning", "Data Analysis", "Sustainability"]
+      },
+      {
+        "title": "Personal Chatbot",
+        "description": "Developed a chatbot to interactively present my resume, utilizing Retrieval-Augmented Generation (RAG) for accurate and context-specific responses.",
+        "technologies_used": ["Python", "GPT-3", "Flask", "FAISS"],
+        "duration": "March 2023 - June 2023",
+        "tags": ["Chatbot", "Natural Language Processing", "AI", "Web Development"]
+      },
+      {
+        "title": "Embedded Systems Automation",
+        "description": "Designed and implemented an embedded system for automating household tasks, enhancing efficiency and reliability.",
+        "technologies_used": ["C++", "Arduino", "IoT"],
+        "duration": "September 2022 - December 2022",
+        "tags": ["Embedded Systems", "IoT", "Automation"]
+      }
+    ],
+    
+    "certifications": [
+      {
+        "title": "Machine Learning Specialist",
+        "issuing_organization": "Coursera",
+        "date_awarded": "June 2023",
+        "credential_id": "ML12345"
+      },
+      {
+        "title": "Full Stack Web Development",
+        "issuing_organization": "Udemy",
+        "date_awarded": "April 2022",
+        "credential_id": "FSWD67890"
+      }
+    ]
+  }
+  
