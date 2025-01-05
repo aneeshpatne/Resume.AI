@@ -4,3 +4,4 @@
 .venv
 LoRA/lora-llama-3.2-1b-adapter
 LoRA/lora-llama-3.2-1b-output
+LoRA/llama_finetuned_resume
