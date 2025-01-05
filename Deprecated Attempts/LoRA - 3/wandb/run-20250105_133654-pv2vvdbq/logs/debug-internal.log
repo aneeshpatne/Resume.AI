@@ -1,0 +1,60 @@
+{"time":"2025-01-05T13:36:54.2209312+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2025-01-05T13:36:54.2209312+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\anees\\Desktop\\Coding\\llmrepo\\train-LLAMA\\LoRA\\wandb\\run-20250105_133654-pv2vvdbq\\logs\\debug-core.log"}
+{"time":"2025-01-05T13:36:54.9539644+05:30","level":"INFO","msg":"created new stream","id":"pv2vvdbq"}
+{"time":"2025-01-05T13:36:54.9545214+05:30","level":"INFO","msg":"stream: started","id":"pv2vvdbq"}
+{"time":"2025-01-05T13:36:54.9545214+05:30","level":"INFO","msg":"handler: started","stream_id":"pv2vvdbq"}
+{"time":"2025-01-05T13:36:54.9545214+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pv2vvdbq"}
+{"time":"2025-01-05T13:36:54.9545214+05:30","level":"INFO","msg":"sender: started","stream_id":"pv2vvdbq"}
+{"time":"2025-01-05T13:36:55.5265853+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-05T13:36:57.5361587+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:40:19.1229682+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:40:19.12437+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:40:28.1480629+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:40:28.1500187+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:40:48.6934686+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:40:49.8314893+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:40:59.9040366+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:41:01.2931741+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:41:16.3958186+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:41:16.4061853+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:43:13.4173244+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:43:13.4197466+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:44:34.5457359+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:44:34.5472483+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:44:46.1136449+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:44:46.1151573+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:44:47.7948862+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:44:47.7963877+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:44:51.380229+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:44:52.4115748+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:44:59.6918486+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:00.904442+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:03.4040011+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:03.4086902+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:20.289165+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:20.2907144+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:22.285813+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:22.288582+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:23.6319462+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:23.6380302+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:30.3036022+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:30.3069392+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:35.2818087+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:35.286413+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:45:50.4293721+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:45:50.430815+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:46:03.9503815+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:46:03.9843203+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:46:38.4172986+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:46:38.5032432+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:46:40.6358573+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:46:40.6873341+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:46:43.8509069+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:46:43.8616596+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:46:45.6550078+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:47:57.0007214+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:48:08.1194149+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:48:08.8544367+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T13:48:18.6967808+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-05T13:48:19.1188336+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-05T16:27:59.7472125+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/aneeshpatne12-aneesh/huggingface/pv2vvdbq/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
