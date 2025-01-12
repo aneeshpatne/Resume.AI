@@ -1,0 +1,1760 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.0.0",
+  "name": "Aneesh_Patne-2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 244071107280916107,
+    "filename": "Aneesh_Patne-2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/11"
+      }
+    ],
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 245.3769989013672,
+            "t": 770.5859985351562,
+            "r": 365.9010009765625,
+            "b": 750.5640258789062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Aneesh Patne",
+      "text": "Aneesh Patne",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.6989974975586,
+            "t": 749.3330078125,
+            "r": 534.0399780273438,
+            "b": 738.7620239257812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "+91 7400449201 - aneeshpatne12@gmail.com - aneeshpatne.com - Linkedin - LeetCode - GitHub",
+      "text": "+91 7400449201 - aneeshpatne12@gmail.com - aneeshpatne.com - Linkedin - LeetCode - GitHub"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.097999572753906,
+            "t": 736.4819946289062,
+            "r": 100.9729995727539,
+            "b": 724.8499755859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "EDUCATION",
+      "text": "EDUCATION"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.800000000000004,
+            "t": 718.5859999999999,
+            "r": 250.258,
+            "b": 706.954,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Veermata Jijabai Technological Institute",
+      "text": "Veermata Jijabai Technological Institute",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 480.05400000000003,
+            "t": 717.088,
+            "r": 582.479,
+            "b": 707.3939999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Mumbai, Maharashtra",
+      "text": "Mumbai, Maharashtra"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.800000000000004,
+            "t": 704.666,
+            "r": 243.766,
+            "b": 693.416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "M.Tech Electronics and Telecommunication",
+      "text": "M.Tech Electronics and Telecommunication"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 529.449,
+            "t": 703.229,
+            "r": 582.48,
+            "b": 693.854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "2023 - 2025",
+      "text": "2023 - 2025"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.800000000000004,
+            "t": 685.518,
+            "r": 288.013,
+            "b": 673.886,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Thakur College of Engineering and Technology",
+      "text": "Thakur College of Engineering and Technology",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 480.05400000000003,
+            "t": 684.02,
+            "r": 582.479,
+            "b": 674.326,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Mumbai, Maharashtra",
+      "text": "Mumbai, Maharashtra"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.800000000000004,
+            "t": 671.599,
+            "r": 240.766,
+            "b": 660.349,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "B.Tech Electronics and Telecommunication",
+      "text": "B.Tech Electronics and Telecommunication"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 526.679,
+            "t": 670.162,
+            "r": 579.71,
+            "b": 660.787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "2019 - 2023",
+      "text": "2019 - 2023"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.098,
+            "t": 655.43,
+            "r": 145.159,
+            "b": 643.798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "TECHNICAL SKILLS",
+      "text": "TECHNICAL SKILLS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.799999237060547,
+            "t": 636.1669921875,
+            "r": 348.0,
+            "b": 625.552001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "\u00b7 Programming Languages: Python (Advanced), JavaScript, Java",
+      "text": "\u00b7 Programming Languages: Python (Advanced), JavaScript, Java",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.273000717163086,
+            "t": 621.2670288085938,
+            "r": 203.1490020751953,
+            "b": 610.6519775390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "\u00b7 Databases: SQL, MongoDB, Redis",
+      "text": "\u00b7 Databases: SQL, MongoDB, Redis",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.273000717163086,
+            "t": 606.3679809570312,
+            "r": 356.6390075683594,
+            "b": 595.7529907226562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "\u00b7 Web Development: React, Next.js, SvelteKit, Tailwind CSS, HTML",
+      "text": "\u00b7 Web Development: React, Next.js, SvelteKit, Tailwind CSS, HTML",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.273000717163086,
+            "t": 591.468017578125,
+            "r": 538.156005859375,
+            "b": 580.85302734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "\u00b7 Machine Learning: Neural Networks , Extreme Learning Machines, Ensemble Models, Google Vertex AI.",
+      "text": "\u00b7 Machine Learning: Neural Networks , Extreme Learning Machines, Ensemble Models, Google Vertex AI.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.273000717163086,
+            "t": 576.5679931640625,
+            "r": 566.1820068359375,
+            "b": 565.9530029296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "\u00b7 Cloud Platforms: Google Cloud Platform (App Engine, Compute Engine, BigQuery, Maps API, Authentication)",
+      "text": "\u00b7 Cloud Platforms: Google Cloud Platform (App Engine, Compute Engine, BigQuery, Maps API, Authentication)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.273000717163086,
+            "t": 561.6690063476562,
+            "r": 565.6799926757812,
+            "b": 551.0540161132812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "\u00b7 Data Structures and Algorithms: Solved 500+ coding problems demonstrating strong problem-solving skills.",
+      "text": "\u00b7 Data Structures and Algorithms: Solved 500+ coding problems demonstrating strong problem-solving skills.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.099000930786133,
+            "t": 546.7689819335938,
+            "r": 537.6220092773438,
+            "b": 522.2529907226562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "\u00b7 Large Language Models: LoRA fine-tuning, prompt engineering, API integration, and custom chatbots. PROJECTS",
+      "text": "\u00b7 Large Language Models: LoRA fine-tuning, prompt engineering, API integration, and custom chatbots. PROJECTS",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 514.0910034179688,
+            "r": 182.71600341796875,
+            "b": 503.47601318359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "\u00b7 Resume.AI : Resume ChatBot",
+      "text": "\u00b7 Resume.AI : Resume ChatBot",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.11300000000006,
+            "t": 513.752,
+            "r": 582.437,
+            "b": 503.487,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Dec 2024 - Present",
+      "text": "Dec 2024 - Present"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 500.2030029296875,
+            "r": 191.5959930419922,
+            "b": 489.93798828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "( LLM, Fine Tuning ,Huggingface)",
+      "text": "( LLM, Fine Tuning ,Huggingface)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 489.9930114746094,
+            "r": 581.8259887695312,
+            "b": 479.4219970703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "\u00b7 A LLaMA 3.2 1B finetuned resume chatbotcapable of engaging in conversation about my professional journey.",
+      "text": "\u00b7 A LLaMA 3.2 1B finetuned resume chatbotcapable of engaging in conversation about my professional journey.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 474.9930114746094,
+            "r": 542.7169799804688,
+            "b": 450.87298583984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "\u00b7 Leveraged LoRA (Low-Rank Adaptation) for efficient fine-tuning of the LLaMA model, combined with advanced prompt engineering techniques to optimize conversational flow",
+      "text": "\u00b7 Leveraged LoRA (Low-Rank Adaptation) for efficient fine-tuning of the LLaMA model, combined with advanced prompt engineering techniques to optimize conversational flow",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 445.24200439453125,
+            "r": 566.4660034179688,
+            "b": 434.97698974609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Technologies Used: Huggingface Transformers, LoRA (Low-Rank Adaptation), PyTorch, Python, Prompt Engineering",
+      "text": "Technologies Used: Huggingface Transformers, LoRA (Low-Rank Adaptation), PyTorch, Python, Prompt Engineering"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 431.1239929199219,
+            "r": 126.30599975585938,
+            "b": 420.5090026855469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "\u00b7 Personal Portfolio",
+      "text": "\u00b7 Personal Portfolio",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 480.0329895019531,
+            "t": 430.7850036621094,
+            "r": 582.47998046875,
+            "b": 420.5199890136719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "June 2024- Sept 2024",
+      "text": "June 2024- Sept 2024"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 417.2359924316406,
+            "r": 215.09500122070312,
+            "b": 406.97100830078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "(Web Development, NextJS, MonogDB)",
+      "text": "(Web Development, NextJS, MonogDB)"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 405.0329895019531,
+            "r": 565.8330078125,
+            "b": 380.9129943847656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            135
+          ]
+        }
+      ],
+      "orig": "\u00b7 Scalable portfolio platform with Next.js, leveraging server-side rendering (SSR) a for optimal performance and SEO, hosted on Vercel.",
+      "text": "\u00b7 Scalable portfolio platform with Next.js, leveraging server-side rendering (SSR) a for optimal performance and SEO, hosted on Vercel.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 376.4849853515625,
+            "r": 582.218994140625,
+            "b": 352.364990234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "\u00b7 Built modular React components with custom hooks for state management, enabling theme switching, project showcases, and real-time data fetching via APIs.",
+      "text": "\u00b7 Built modular React components with custom hooks for state management, enabling theme switching, project showcases, and real-time data fetching via APIs.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 347.0400085449219,
+            "r": 243.13099670410156,
+            "b": 336.468994140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Technologies Used: NextJS, MongoDB, Redis",
+      "text": "Technologies Used: NextJS, MongoDB, Redis"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 331.6189880371094,
+            "r": 314.2690124511719,
+            "b": 321.0039978027344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "\u00b7 Socio-Economic Impact of Pollution on Life Expectancy",
+      "text": "\u00b7 Socio-Economic Impact of Pollution on Life Expectancy",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 513.8070068359375,
+            "t": 331.2799987792969,
+            "r": 582.47998046875,
+            "b": 321.0150146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "2024 Onwards",
+      "text": "2024 Onwards"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 317.7309875488281,
+            "r": 296.5090026855469,
+            "b": 307.46600341796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "( Machine Learning (ML), Full Stack Web Development )",
+      "text": "( Machine Learning (ML), Full Stack Web Development )"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 305.52899169921875,
+            "r": 567.9169921875,
+            "b": 281.4079895019531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "\u00b7 A ML project to quantify the impact of air pollution on life expectancy, integrating multiple socio-economic parameters.",
+      "text": "\u00b7 A ML project to quantify the impact of air pollution on life expectancy, integrating multiple socio-economic parameters.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 276.9800109863281,
+            "r": 562.385986328125,
+            "b": 252.86000061035156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "\u00b7 ML model used to analyze the relationships between socio-economic drivers and life expectancy, aimed at facilitating effective policy-making.",
+      "text": "\u00b7 ML model used to analyze the relationships between socio-economic drivers and life expectancy, aimed at facilitating effective policy-making.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 247.53500366210938,
+            "r": 386.8689880371094,
+            "b": 236.96400451660156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Technologies Used: Machine Learning, Google Vertex AI, SvelteKit, Express",
+      "text": "Technologies Used: Machine Learning, Google Vertex AI, SvelteKit, Express"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 233.11099243164062,
+            "r": 243.39300537109375,
+            "b": 222.49600219726562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "\u00b7 Vishv: Google Solution Challenge Project",
+      "text": "\u00b7 Vishv: Google Solution Challenge Project",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 478.9639892578125,
+            "t": 232.77200317382812,
+            "r": 582.47998046875,
+            "b": 222.5070037841797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Jan 2024 - April 2024",
+      "text": "Jan 2024 - April 2024"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 219.22300720214844,
+            "r": 434.4330139160156,
+            "b": 208.95799255371094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "( Machine Learning (ML), Full Stack Web Development, Deployment on Vercel & GCP )",
+      "text": "( Machine Learning (ML), Full Stack Web Development, Deployment on Vercel & GCP )"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 207.02000427246094,
+            "r": 579.6439819335938,
+            "b": 182.89999389648438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "\u00b7 A web application to promote awareness on climate change and quality education, incorporating an inclusive color-blindness-friendly interface , featured ML-driven AQI predictions.",
+      "text": "\u00b7 A web application to promote awareness on climate change and quality education, incorporating an inclusive color-blindness-friendly interface , featured ML-driven AQI predictions.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 50.72600173950195,
+            "t": 178.4720001220703,
+            "r": 481.45098876953125,
+            "b": 167.9010009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "\u00b7 Leveraged multiple Google Cloud Platform services for implementation and deployment.",
+      "text": "\u00b7 Leveraged multiple Google Cloud Platform services for implementation and deployment.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 162.5760040283203,
+            "r": 550.0800170898438,
+            "b": 140.0500030517578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Technologies Used: Django, React, Django REST Framework, Google OAuth 2.0, Google Cloud Platform (App Engine, Firebase, AutoML, Google Maps API, Google Cloud SQL ).",
+      "text": "Technologies Used: Django, React, Django REST Framework, Google OAuth 2.0, Google Cloud Platform (App Engine, Firebase, AutoML, Google Maps API, Google Cloud SQL )."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.097999572753906,
+            "t": 138.76600646972656,
+            "r": 131.2429962158203,
+            "b": 127.13400268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "CERTIFICATIONS",
+      "text": "CERTIFICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 119.47000122070312,
+            "r": 261.50201416015625,
+            "b": 108.8550033569336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "\u00b7 Google ML Engineer Professional (Coursera)",
+      "text": "\u00b7 Google ML Engineer Professional (Coursera)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 105.61100006103516,
+            "r": 177.5780029296875,
+            "b": 94.99600219726562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "\u00b7 Introduction to ML (NPTEL)",
+      "text": "\u00b7 Introduction to ML (NPTEL)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 91.75199890136719,
+            "r": 295.1130065917969,
+            "b": 81.13700103759766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "\u00b7 Python for Data Science (NPTEL) (TOP 5% Ranker)",
+      "text": "\u00b7 Python for Data Science (NPTEL) (TOP 5% Ranker)",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.097999572753906,
+            "t": 78.86799621582031,
+            "r": 205.4010009765625,
+            "b": 67.23600006103516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "CO-CURRICULAR ACTIVITIES",
+      "text": "CO-CURRICULAR ACTIVITIES"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 59.60499954223633,
+            "r": 298.0140075683594,
+            "b": 48.9900016784668,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "\u00b7 Participated in GDSC SOLUTIONS CHALLENGE 2024.",
+      "text": "\u00b7 Participated in GDSC SOLUTIONS CHALLENGE 2024.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 43.09000015258789,
+            "r": 30.545000076293945,
+            "b": 37.446998596191406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u00b7",
+      "text": "\u00b7",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.097999572753906,
+            "t": 45.744998931884766,
+            "r": 278.9230041503906,
+            "b": 23.222000122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Participated in SMART INDIA HACKATHON 2024. SOFT SKILLS",
+      "text": "Participated in SMART INDIA HACKATHON 2024. SOFT SKILLS",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.72599983215332,
+            "t": 15.557999610900879,
+            "r": 281.8909912109375,
+            "b": 4.986999988555908,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "\u00b7 Excellent Communication, Team Work, Adaptability",
+      "text": "\u00b7 Excellent Communication, Team Work, Adaptability",
+      "enumerated": false,
+      "marker": "-"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    }
+  }
+}
