@@ -68,7 +68,7 @@
         "description": "Designed and implemented an embedded system for automating household tasks, enhancing efficiency and reliability.",
         "technologies_used": ["C++", "Arduino", "IoT"],
         "duration": "September 2022 - December 2022",
-        "tags": ["Embedded Systems", "IoT", "Automation"]
+        "tags": ["Embedded Systems", "IoT", "Automation", "React", "NextJS", "Next"]
       }
     ],
     
