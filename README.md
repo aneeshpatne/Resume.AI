@@ -18,6 +18,12 @@ Resume.AI is an intelligent chatbot that provides accurate, contextual responses
 - Natural conversational interface
 - Support for diverse professional queries
 
+## Demo
+
+![Resume AI Demo](assets/image.png){width=600 height=400}
+
+_Interactive chat interface demonstrating Resume.AI capabilities_
+
 ## Project Structure
 
 ```
