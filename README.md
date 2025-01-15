@@ -1,20 +1,85 @@
-# Resume.AI 
+# Resume.AI
 
-A project to fine-tune the LLAMA 3.2 1B model to create an interactive resume chatbot capable of engaging in professional conversations.
+A chatbot system that uses Retrieval-Augmented Generation (RAG) and LLAMA 3.2 1B model to create an interactive resume experience.
 
 ## Overview
 
-This project leverages the LLAMA 3.2 1B model to develop a personal resume chatbot. The chatbot is trained to answer questions about an individual’s professional experience, skills, and qualifications, serving as a modern, interactive way to present a resume. It provides users with a dynamic method to communicate their professional profile.
+Resume.AI is an intelligent chatbot that provides accurate, contextual responses about professional experience by combining:
 
+- LLAMA 3.2 1B language model and Mistral:Latest 8B.
+- RAG (Retrieval-Augmented Generation) for grounding responses in actual resume data
+- Natural language processing for human-like interactions
+
+## Features
+
+- Interactive Q&A about professional experience
+- Context-aware responses using RAG
+- Accurate information retrieval from resume data
+- Natural conversational interface
+- Support for diverse professional queries
+
+## Project Structure
+
+```
+.
+├── Chat/                         # Main chat implementation
+│   └── Vector Database/         # Vector DB for RAG
+├── Extraction and Upserting/    # Data processing scripts
+│   ├── extraction.ipynb
+│   └── conversion.ipynb
+└── README.md
+```
+
+## Setup and Installation
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/username/Resume.AI.git
+   ```
+
+2. Install dependencies
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Configure environment variables in `.env`
+
+4. Run the chat interface
+   ```bash
+   python chat/main.py
+   ```
 
 ## Data Preparation
 
-The training data consists of carefully crafted prompt-response pairs that simulate professional conversations about resume content. These prompts were generated to cover various aspects of professional experience, including:
+Training data includes prompt-response pairs covering:
 
-- Work history inquiries
-- Skill-specific questions
+- Work history and experience
+- Technical skills and competencies
 - Educational background
-- Project experiences
-- Professional achievements
+- Project details and achievements
+- Professional certifications
 
-Each prompt was designed to maintain natural conversation flow while ensuring accurate representation of resume information.
+## Development
+
+- Uses LLAMA 3.2 1B model fine-tuned on resume data
+- Implements RAG for retrieval-augmented generation
+- Indexes resume content in vector database
+- Processes natural language queries
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit changes
+4. Push to the branch
+5. Submit a pull request
+
+## Contact
+
+For questions and feedback, please open an issue in the GitHub repository.
