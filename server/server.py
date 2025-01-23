@@ -16,6 +16,7 @@ conversation_history = defaultdict(list)
 
 @sio.on("query")
 async def handle_query(sid: str, query: str):
+    print('Start')
     try:
         results = collection.query(
             query_texts=query,
@@ -29,7 +30,7 @@ async def handle_query(sid: str, query: str):
         ]
         messages.extend(conversation_history[sid][-5:])
         response = client.chat.completions.create(
-            model="llama2",
+            model="deepseek-r1:latest",
             messages=messages,
             stream=True
         )
@@ -37,6 +38,7 @@ async def handle_query(sid: str, query: str):
         for chunk in response:
             if chunk.choices[0].delta.content:
                 content = chunk.choices[0].delta.content
+                print(content)
                 complete_response.append(content)
                 await sio.emit('chunk', content, room=sid)
         conversation_history[sid].append({"role": "assistant", "content":"".join(complete_response)})
