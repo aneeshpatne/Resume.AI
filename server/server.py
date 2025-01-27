@@ -4,6 +4,8 @@ import chromadb
 from openai import OpenAI
 from collections import defaultdict
 import os
+import dotenv
+dotenv.load_dotenv()
 app = FastAPI()
 sio = socketio.AsyncServer(async_mode='asgi', cors_allowed_origins='*')
 socket_app = socketio.ASGIApp(sio, app)
