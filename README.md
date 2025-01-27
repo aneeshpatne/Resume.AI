@@ -22,10 +22,7 @@ Resume.AI is an intelligent chatbot that provides accurate, contextual responses
 ## Demo
 
 <img src="assets/image.png" alt="Resume AI Demo" width="100%" height="400">
-<video width="100%" height="400" controls>
-   <source src="assets/video.mp4" type="video/mp4">
-   Your browser does not support the video tag.
-</video>
+<img src="assets/demo.gif" alt="Demo GIF" width="100%" height="400">
 
 _Interactive chat interface demonstrating Resume.AI capabilities_
 
