@@ -1,26 +1,27 @@
 # Resume.AI
 
-A chatbot system that uses Retrieval-Augmented Generation (RAG) and LLAMA 3.2 1B model to create an interactive resume experience.
+A chatbot system that uses Retrieval-Augmented Generation (RAG) and various language models to create an interactive resume experience.
 
 ## Overview
 
 Resume.AI is an intelligent chatbot that provides accurate, contextual responses about professional experience by combining:
 
-- LLAMA 3.2 1B language model and Mistral:Latest 8B.
-- RAG (Retrieval-Augmented Generation) for grounding responses in actual resume data
-- Natural language processing for human-like interactions
+- GROQ, OpenRouter, Ollama, and DeepSeek R1.
+- RAG (Retrieval-Augmented Generation) for grounding responses in actual resume data.
+- Natural language processing for human-like interactions.
+- ChromaDB for vector database management.
 
 ## Features
 
-- Interactive Q&A about professional experience
-- Context-aware responses using RAG
-- Accurate information retrieval from resume data
-- Natural conversational interface
-- Support for diverse professional queries
+- Interactive Q&A about professional experience.
+- Context-aware responses using RAG.
+- Accurate information retrieval from resume data.
+- Natural conversational interface.
+- Support for diverse professional queries.
 
 ## Demo
 
-![Resume AI Demo](assets/image.png){width=600 height=400}
+<img src="assets/image.png" alt="Resume AI Demo" width="700" height="400">
 
 _Interactive chat interface demonstrating Resume.AI capabilities_
 
@@ -33,6 +34,10 @@ _Interactive chat interface demonstrating Resume.AI capabilities_
 ├── Extraction and Upserting/    # Data processing scripts
 │   ├── extraction.ipynb
 │   └── conversion.ipynb
+├── Deprecated Attempts/         # Previous attempts and experiments
+├── server/                      # Server-side code
+│   ├── chroma_db/               # ChromaDB related files
+│   └── server.py                # Main server script
 └── README.md
 ```
 
@@ -53,6 +58,7 @@ _Interactive chat interface demonstrating Resume.AI capabilities_
 3. Configure environment variables in `.env`
 
 4. Run the chat interface
+
    ```bash
    python chat/main.py
    ```
@@ -61,15 +67,26 @@ _Interactive chat interface demonstrating Resume.AI capabilities_
 
 Training data includes prompt-response pairs covering:
 
-- Work history and experience
-- Technical skills and competencies
-- Educational background
-- Project details and achievements
-- Professional certifications
+- Work history and experience.
+- Technical skills and competencies.
+- Educational background.
+- Project details and achievements.
+- Professional certifications.
 
 ## Development
 
-- Uses LLAMA 3.2 1B model fine-tuned on resume data
-- Implements RAG for retrieval-augmented generation
-- Indexes resume content in vector database
-- Processes natural language queries
+- Uses GROQ, OpenRouter, Ollama, and DeepSeek R1.
+- Implements RAG for retrieval-augmented generation.
+- Indexes resume content in ChromaDB.
+- Processes natural language queries.
+
+## Usage
+
+1. Ensure all dependencies are installed and environment variables are configured.
+2. Start the server:
+
+   ```bash
+   python server/server.py
+   ```
+
+3. Access the chat interface through your browser or preferred client.

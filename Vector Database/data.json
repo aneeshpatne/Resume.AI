@@ -15,14 +15,14 @@
       "institution": "Veermata Jijabai Technological Institute",
       "location": "Mumbai, Maharashtra",
       "duration": "2023 - 2025",
-      "details": "Specialized in Machine Learning and Signal Processing. Relevant coursework includes Advanced Algorithms, Neural Networks, and Communication Systems."
+      "details": "Specialized in ML, DBMS and Cloud Computing. Currently working on a project analyzing the socio-economic impact of pollution on life expectancy."
     },
     {
       "degree": "B.Tech in Electronics and Telecommunication",
       "institution": "Thakur College of Engineering and Technology",
       "location": "Mumbai, Maharashtra",
       "duration": "2019 - 2023",
-      "details": "Graduated with First Class Honors. Engaged in multiple projects focusing on embedded systems and wireless communication."
+      "details": "Graduated with First Class. Engaged in multiple projects focusing on web development, IoT and ML."
     }
   ],
 
@@ -37,43 +37,247 @@
       "Express",
       "MongoDB",
       "Google Vertex AI",
-      "SvelteKit"
+      "SvelteKit",
+      "Arduino",
+      "IoT",
+      "Java",
+      "JavaScript",
+      "Next.js"
     ],
     "soft_skills": [
       "Problem-Solving",
       "Team Leadership",
       "Effective Communication",
       "Adaptability",
-      "Time Management"
+      "Time Management",
+      "Continuous Learning",
+      "Critical Thinking"
     ]
   },
 
   "projects": [
     {
-      "title": "Socio-Economic Impact of Pollution on Life Expectancy",
-      "description": "A machine learning project analyzing the impact of air pollution on life expectancy, integrating multiple socio-economic parameters.",
-      "technologies_used": [
-        "Machine Learning",
-        "Google Vertex AI",
-        "SvelteKit",
-        "Express"
+      "title": "TLDR - Web Page Summarizer Extension",
+      "duration": "Jan 2025 - Present",
+      "description": [
+        "- Developed a Chrome extension to summarize web pages.",
+        "- Utilized LLM to provide concise and clear summaries of web pages.",
+        "- Built a Flask backend to interface with LLM using OpenAI API."
       ],
-      "duration": "January 2024 - Present",
-      "tags": ["Machine Learning", "Data Analysis", "Sustainability"]
+      "skills": [
+        "Large Language Models (LLM)",
+        "Flask",
+        "REST APIs",
+        "JavaScript",
+        "Python"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/TLDR",
+        "Medium Article": "https://medium.com/@aneeshpatne21/tldr-58c47a5e4e53"
+      }
     },
     {
-      "title": "Personal Chatbot",
-      "description": "Developed a chatbot to interactively present my resume, utilizing Retrieval-Augmented Generation (RAG) for accurate and context-specific responses.",
-      "technologies_used": ["Python", "GPT-3", "Flask", "FAISS"],
-      "duration": "March 2023 - June 2023",
-      "tags": ["Chatbot", "al Language Processing", "AI", "Web Development"]
+      "title": "ASAPFiles",
+      "duration": "Dec 2024 - Present",
+      "description": [
+        "- WebSocket-based real-time file-sharing application.",
+        "- Implemented chunk-based file transmission for compatibility with large files.",
+        "- Built with Node.js, Express, and WebSocket (ws) for low-latency, bidirectional communication."
+      ],
+      "skills": ["Next.js", "Express.js", "WebSocket"],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/ASAPFiles"
+      }
     },
     {
-      "title": "IoT and ML based Weather Prediction System",
-      "description": "Designed and implemented an embedded system for automating household tasks, enhancing efficiency and reliability.",
-      "technologies_used": ["C++", "Arduino", "IoT"],
-      "duration": "September 2022 - December 2022",
-      "tags": ["Embedded Systems", "IoT", "Automation"]
+      "title": "Resume.AI - Resume Chatbot",
+      "duration": "Nov 2024 - Present",
+      "description": [
+        "- Using LLaMA LLM and Retrieval Augmented Generation (RAG) along with prompt engineering.",
+        "- This chatbot serves as a dynamic extension of my professional story.",
+        "- Provides potential employers and collaborators quick, relevant insights into my capabilities."
+      ],
+      "skills": [
+        "Large Language Models (LLM)",
+        "Next.js",
+        "Vector Databases",
+        "WebSocket",
+        "ChromaDB"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/Resume.AI"
+      }
+    },
+    {
+      "title": "URL Shortener",
+      "duration": "Nov 2024 - Nov 2024",
+      "description": [
+        "- URL shortening service using Express.js to streamline long URLs into concise, shareable links.",
+        "- Integrated MongoDB for robust, scalable storage of URL mappings.",
+        "- Built an elegant front-end with Next.js to facilitate URL shortening."
+      ],
+      "skills": ["Express.js", "MongoDB", "Next.js", "Vercel"],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/URL-Shortner",
+        "Deployed Webpage": "https://url.aneeshpatne.com/"
+      }
+    },
+    {
+      "title": "Professional Portfolio",
+      "duration": "Jul 2024 - Oct 2024",
+      "description": [
+        "- A sleek and modern webpage to showcase my skills and projects.",
+        "- Comprehensive showcase of my professional journey, featuring all my skills, expertise, and accomplishments in one place.",
+        "- Utilizing Redis as a primary database to store stats.",
+        "- Designed with Next.js and deployed using Vercel."
+      ],
+      "skills": [
+        "Next.js",
+        "Vercel",
+        "MongoDB",
+        "Redis",
+        "User Experience (UX)",
+        "Web Development",
+        "Git"
+      ],
+      "links": {
+        "Professional Portfolio": "https://aneeshpatne.com/",
+        "GitHub": "https://github.com/aneeshpatne/Personal-Portfolio"
+      }
+    },
+    {
+      "title": "Vishv",
+      "duration": "Jan 2024 - Apr 2024",
+      "description": [
+        "- Vishv, a comprehensive and informative website designed to spread awareness about the United Nations' 21 Sustainable Development Goals.",
+        "- Utilizing React for a dynamic and responsive frontend, paired with Django for a robust and scalable backend.",
+        "- Support for multiple languages and a color blindness-friendly interface, making it accessible to a diverse global audience."
+      ],
+      "skills": [
+        "Machine Learning",
+        "Google Maps API",
+        "Django",
+        "Google App Engine",
+        "Exploratory Data Analysis",
+        "OAuth 2.0",
+        "Google Cloud Platform (GCP)",
+        "React.js",
+        "Google Cloud AutoML",
+        "Firebase",
+        "Git",
+        "Databases",
+        "Mathematics",
+        "User Experience (UX)",
+        "Web Development"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/Vishv-GDSC-Solutions-Challenge-2024"
+      }
+    },
+    {
+      "title": "NatureNest",
+      "duration": "Dec 2023 - Feb 2024",
+      "description": [
+        "- A garden community app designed to track member activities, harvests, and plot details.",
+        "- Implemented using React for robust component-based architecture and Django for integration with a cloud SQL database, enabling real-time data retrieval and updates through a user-friendly interface."
+      ],
+      "skills": [
+        "SQL",
+        "Django",
+        "Google Cloud Platform (GCP)",
+        "React.js",
+        "Git",
+        "Databases",
+        "User Experience (UX)",
+        "Web Development"
+      ],
+      "links": {
+        "GitHub - NatureNest": "https://github.com/aneeshpatne/NatureNest"
+      }
+    },
+    {
+      "title": "MongoDB-based Football Data Manager",
+      "duration": "Apr 2023",
+      "description": [
+        "- A basic football data CRUD application that allows for easy management of football-related information."
+      ],
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "Node.js",
+        "Cascading Style Sheets (CSS)",
+        "Python",
+        "MongoDB",
+        "Git",
+        "Databases",
+        "User Experience (UX)",
+        "Web Development"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/FootBall-Statistics-MongoDB"
+      }
+    },
+    {
+      "title": "Machine Learning Based Face Recognition Attendance System",
+      "duration": "Feb 2023",
+      "description": [
+        "- Designed and implemented a sophisticated Face Recognition Based Attendance System, incorporating DLIB, KNN, and data cleaning methodologies.",
+        "- Ensures precise identification through facial recognition and seamlessly captures and stores attendance data in CSV format.",
+        "- Provides an efficient and secure approach to attendance tracking."
+      ],
+      "skills": [
+        "Machine Learning",
+        "Exploratory Data Analysis",
+        "Python",
+        "Digital Image Processing",
+        "Git",
+        "Databases"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/FaceRecognitionAttendenceSystem"
+      }
+    },
+    {
+      "title": "T.rex: Electronics Circuits Game",
+      "duration": "Nov 2022 - Dec 2022",
+      "description": [
+        "- A basic HTML/JS game intended to test the basic knowledge of the player regarding the basics of FET.",
+        "- During the teaching-learning process, it is paramount to know whether the student is learning what the teacher intends to.",
+        "- The game focuses on testing the students' knowledge about FET (Field Effect Transistor), named 'T.rex' to acknowledge the dinosaur character inspired by the Chrome offline game and the subject matter."
+      ],
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "Git",
+        "Web Development"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/Electronics-Circuits-Game"
+      }
+    },
+    {
+      "title": "Save Time - UX Design Project",
+      "duration": "Jan 2022",
+      "description": [
+        "- 'Save-Time' is a productivity app designed using FIGMA, featuring a sleek and user-friendly interface.",
+        "- The app's primary focus is to streamline and optimize time management.",
+        "- One of its key pages has been translated into a responsive HTML/CSS layout, with minimalistic yet engaging design elements.",
+        "- Basic JavaScript functionalities have been incorporated to enhance user interactivity."
+      ],
+      "skills": [
+        "HTML",
+        "User Interface Design",
+        "JavaScript",
+        "Cascading Style Sheets (CSS)",
+        "Figma (Software)",
+        "Git",
+        "User Experience (UX)",
+        "Web Development"
+      ],
+      "links": {
+        "GitHub": "https://github.com/aneeshpatne/Save-Time-UX"
+      }
     }
   ],
 
